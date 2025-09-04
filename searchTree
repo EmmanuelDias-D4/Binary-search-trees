@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 // Função para criar um novo nó na árvore
 No* criarNo(int chave){
   No* novoNo = (No) malloc (sizeof(No);
